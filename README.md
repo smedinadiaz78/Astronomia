@@ -1,2 +1,1 @@
-# Astronomia
-Trabajo 2
+
